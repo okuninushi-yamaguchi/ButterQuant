@@ -1,0 +1,9 @@
+flask
+flask-cors
+yfinance
+numpy
+pandas
+scipy
+statsmodels
+arch
+packaging
