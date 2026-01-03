@@ -7,4 +7,4 @@ scipy==1.13.0
 statsmodels==0.14.2
 arch==7.0.0
 packaging==24.0
-gunicorn
+gunicorn==22.0.0
