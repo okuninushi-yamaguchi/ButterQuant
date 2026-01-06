@@ -1,0 +1,210 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "nav": {
+    "dashboard": "Heatmap Strategy",
+    "analyzer": "Deep Analyzer",
+    "status": "Backend Status: Connected"
+  },
+  "dashboard": {
+    "title": "Market Heatmap Monitor",
+    "subtitle": "Butterfly Heatmap v2.1",
+    "updated_at": "Updated at",
+    "waiting_update": "Waiting for update...",
+    "refreshing": "Refreshing...",
+    "scanning": "Scanning...",
+    "refresh_all": "Refresh All Analysis",
+    "ticker_placeholder": "Symbol",
+    "add_ticker": "Add Ticker",
+    "empty_list": "Watchlist is empty, please add a ticker.",
+    "net_income": "Net Income (Credit)",
+    "net_cost": "Net Cost (Debit)",
+    "upper_wing": "Upper Wing (Buy {{type}})",
+    "lower_wing": "Lower Wing (Buy {{type}})",
+    "center_iron": "Center (Sell Straddle)",
+    "center_std": "Center (Sell {{type}})",
+    "sell_call": "Sell Call",
+    "sell_put": "Sell Put",
+    "income": "Credit",
+    "cost": "Debit",
+    "remove_ticker": "Remove Ticker"
+  },
+  "analyzer": {
+    "page_title": "{{ticker}} Butterfly Analysis | ButterQuantDL v2.1",
+    "page_title_default": "ButterQuantDL v2.1",
+    "title": "ButterQuantDL",
+    "subtitle": "Determine trend via frequency domain analysis, auto-select Call/Put/Iron Butterfly strategies.",
+    "features": {
+      "iv_skew": "Real IV Skew",
+      "bs_pricing": "Precise BS Pricing",
+      "greeks": "Greeks Calculation",
+      "score": "Smart Scoring"
+    },
+    "input_placeholder": "Enter US Stock Symbol (e.g., AAPL, TSLA, SPY)",
+    "start_analysis": "Start Analysis",
+    "analyzing": "Analyzing...",
+    "error_connect": "Failed to connect to backend: {{error}}. Ensure Python backend is running.",
+    "score_card": {
+      "title": "Comprehensive Strategy Score",
+      "subtitle": "Multi-factor Quantitative Assessment System",
+      "price_match": "Price Match",
+      "vol_mispricing": "Vol Mispricing",
+      "stability": "Price Stability",
+      "cycle_align": "Cycle Alignment",
+      "delta_penalty": "Delta Penalty",
+      "recommendation": "Recommendation",
+      "confidence": "Confidence",
+      "rec": {
+        "STRONG_BUY": "Strong Buy",
+        "BUY": "Buy",
+        "NEUTRAL": "Neutral",
+        "AVOID": "Avoid"
+      }
+    },
+    "metrics": {
+      "price_stability": "Price Stability",
+      "vol_mispricing": "Vol Mispricing",
+      "profit_ratio": "Profit/Risk Ratio",
+      "risk_level": "Risk Level",
+      "stability_desc": "Fluctuation (Lower is better)",
+      "vol_desc": "IV > Forecast (Long Butterfly)",
+      "profit_desc": "Max Profit / Risk",
+      "score_suffix": "Score: {{score}}",
+      "confidence_suffix": "Confidence: {{score}}%"
+    },
+    "greeks": {
+      "title": "Greeks Risk Metrics",
+      "delta": "Delta (Direction)",
+      "gamma": "Gamma (Convexity)",
+      "vega": "Vega (Volatility)",
+      "theta": "Theta (Time Decay)",
+      "neutral": "Neutral",
+      "directional": "Directional",
+      "pos_gamma": "Positive Gamma at Center",
+      "neg_gamma": "Negative Gamma",
+      "short_vol": "Short Volatility",
+      "long_vol": "Long Volatility",
+      "daily": "Daily",
+      "insight_title": "Greeks Insight",
+      "insight_delta": "Butterfly should be delta neutral, unaffected by small price moves.",
+      "insight_gamma": "Positive Gamma near center; profit accelerates as price nears center.",
+      "insight_vega": "Short volatility; profit from IV crush (enter when IV is high).",
+      "insight_theta": "Time is your friend; earn daily time decay."
+    },
+    "iv_skew": {
+      "title": "IV Skew & Volatility Structure",
+      "benchmark": "Benchmark IV",
+      "insight_title": "Skew Meaning",
+      "insight_put": "Higher Put IV: Strong demand for downside protection (Fear premium).",
+      "insight_call": "Lower Call IV: Call options are relatively cheaper.",
+      "insight_butterfly": "Strategy Impact: Using specific IVs for each strike allows precise pricing.",
+      "insight_percentile": "IV Percentile",
+      "high_iv": " (High, good for selling)",
+      "low_iv": " (Low, bad for selling)",
+      "mid_iv": " (Moderate)"
+    },
+    "fourier": {
+      "strategy_type": "Strategy Type",
+      "low_freq": "Low Freq Trend",
+      "mid_freq": "Mid Freq Cycle Position",
+      "up": "Up",
+      "down": "Down",
+      "flat": "Flat",
+      "peak": "Peak",
+      "valley": "Valley",
+      "slope": "Slope",
+      "dominant_periods": "Dominant Periods",
+      "days": "days",
+      "chart_title": "Fourier Transform Frequency Domain Decomposition",
+      "spectrum_title": "Power Spectral Density - Cycle Identification",
+      "spectrum_insight": "Detected Dominant Trading Cycles",
+      "current_dominant": "Current Dominant Period",
+      "suggest_dte": "Suggested DTE"
+    },
+    "forecast": {
+      "title": "ARIMA Price Forecast & 95% Confidence Interval",
+      "model": "Model",
+      "entry_logic": "Butterfly Entry Logic",
+      "logic_confidence": "95% Confidence Interval",
+      "logic_center": "Forecast Center Price",
+      "logic_strike": "Butterfly Center Strike",
+      "logic_bep": "Break-even Point",
+      "logic_desc": "Logic: Narrow CI → Stable Price → Suitable for Butterfly"
+    },
+    "vol_forecast": {
+      "title": "GARCH Volatility Forecast",
+      "current_iv": "Current IV"
+    },
+    "strategy": {
+      "title": "Butterfly Strategy Construction",
+      "lower_wing": "Lower Wing (Buy {{type}})",
+      "center_wing": "Center (Sell {{type}})",
+      "upper_wing": "Upper Wing (Buy {{type}})",
+      "spread": "Spread",
+      "max_risk": "Max Risk",
+      "max_profit": "Max Profit",
+      "net_debit_text": "Net Debit (Initial Cost)",
+      "iron_risk_text": "Wing Width - Net Credit",
+      "max_loss_suffix": "= Max Loss",
+      "iron_profit_text": "Net Credit: ${{amount}} (Initial Income)",
+      "std_profit_text": "Realized at ${{price}}",
+      "prob_profit": "Prob. of Profit"
+    },
+    "suggestion": {
+      "title": "Smart Trading Suggestion",
+      "action": "Action",
+      "position": "Position Size",
+      "entry": "Entry Timing",
+      "hold": "Hold Until",
+      "immediate": "Immediate",
+      "wait": "Wait for Pullback",
+      "stop_loss": "Stop Loss",
+      "take_profit": "Take Profit",
+      "key_risks": "Key Risks",
+      "risk_rules": "Risk Management Rules",
+      "risk_sl": "Loss exceeds ${{amount}} (50% Cost)",
+      "risk_tp": "Profit reaches ${{amount}} (70% Max Profit)",
+      "risk_price": "Price deviation: Exit if outside ${{low}}-${{high}}",
+      "risk_iv": "Vol Spike: Exit if IV rises >30%",
+      "risk_time": "Time Mgmt: Force exit at 7 DTE",
+      "risk_delta": "Delta Risk: Current Delta={{delta}}, directional risk exists"
+    },
+    "checklist": {
+      "title": "Trading Checklist",
+      "stability": "Good Price Stability (Fluctuation <12%)",
+      "vol": "Volatility Overvalued (IV > GARCH Forecast)",
+      "trend": "Clear Fourier Trend",
+      "cycle": "Cycle Position Aligned",
+      "delta": "Delta Neutral (|Δ| < 0.10)",
+      "iv": "High IV Rank (Percentile > 60%)",
+      "success_msg": "All conditions met. Suggest entering {{type}} Butterfly!",
+      "fail_msg": "Conditions not fully met. Wait or trade small.",
+      "pass_count": "Passed Items",
+      "rec_pos": "Sug. Position",
+      "funds": "Total Funds"
+    },
+    "empty": {
+      "text1": "Enter stock symbol and click \"Start Analysis\"",
+      "text2": "System auto-detects Call/Put/Iron Butterfly strategy",
+      "rec": "Recommended",
+      "new": "v2.1 New Features",
+      "features": [
+        "Real Option Chain IV + Exact IV Skew Modeling",
+        "Precise Black-Scholes Pricing (No Magic Numbers)",
+        "Complete Greeks Metrics (Delta/Gamma/Vega/Theta)",
+        "Multi-factor Scoring System (0-100)",
+        "Smart Trading Suggestions (SL/TP/Size)",
+        "Auto-ARIMA Parameter Selection",
+        "Fourier VWAP Detrending (True Frequency Domain Analysis)"
+      ]
+    },
+    "footer": {
+      "disclaimer": "This tool is for educational and research purposes only. Options trading involves risk.",
+      "source": "Data: Yahoo Finance | Methods: FFT(VWAP) + ARIMA + GARCH + BS + Greeks",
+      "version": "Ver: v2.1 | Backend: Python Flask | Frontend: React + Recharts"
+    }
+  }
+}

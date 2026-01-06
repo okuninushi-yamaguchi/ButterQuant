@@ -1,0 +1,10 @@
+Flask==3.0.3
+flask-cors==4.0.1
+yfinance==1.0
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.0
+statsmodels==0.14.2
+arch==7.0.0
+packaging==24.0
+gunicorn==22.0.0

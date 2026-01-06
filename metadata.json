@@ -1,0 +1,5 @@
+{
+  "name": "ButterQuantDLtest",
+  "description": "A full-stack financial analysis tool using ARIMA-GARCH models and Fourier Transform to analyze stock trends and suggest Butterfly Option strategies.",
+  "requestFramePermissions": []
+}

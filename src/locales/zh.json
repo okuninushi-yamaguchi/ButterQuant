@@ -1,0 +1,210 @@
+{
+  "common": {
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  },
+  "nav": {
+    "dashboard": "策略热力图",
+    "analyzer": "深度分析器",
+    "status": "后端状态: 已连接"
+  },
+  "dashboard": {
+    "title": "市场热力图监控",
+    "subtitle": "Butterfly Heatmap v2.1",
+    "updated_at": "更新于",
+    "waiting_update": "等待更新...",
+    "refreshing": "刷新中...",
+    "scanning": "扫描中...",
+    "refresh_all": "刷新全部分析",
+    "ticker_placeholder": "代码",
+    "add_ticker": "添加自选股",
+    "empty_list": "监控列表为空，请添加股票代码",
+    "net_income": "净收入 (Credit)",
+    "net_cost": "净支出 (Debit)",
+    "upper_wing": "上翼 (买入 {{type}})",
+    "lower_wing": "下翼 (买入 {{type}})",
+    "center_iron": "中心 (卖出 Straddle)",
+    "center_std": "中心 (卖出 {{type}})",
+    "sell_call": "卖Call",
+    "sell_put": "卖Put",
+    "income": "收入",
+    "cost": "支出",
+    "remove_ticker": "移除代码"
+  },
+  "analyzer": {
+    "page_title": "{{ticker}} 蝶式期权分析 | ButterQuantDL v2.1",
+    "page_title_default": "ButterQuantDL分析器 v2.1",
+    "title": "ButterQuantDL分析器",
+    "subtitle": "通过频域分析判断趋势方向，自动选择Call/Put/Iron Butterfly策略",
+    "features": {
+      "iv_skew": "真实IV Skew",
+      "bs_pricing": "BS精确定价",
+      "greeks": "Greeks计算",
+      "score": "智能评分"
+    },
+    "input_placeholder": "输入美股代码 (如: AAPL, TSLA, SPY)",
+    "start_analysis": "开始分析",
+    "analyzing": "分析中...",
+    "error_connect": "连接后端失败: {{error}}. 请确保Python后端正在运行",
+    "score_card": {
+      "title": "策略综合评分",
+      "subtitle": "多因子量化评估系统",
+      "price_match": "价格匹配度",
+      "vol_mispricing": "波动率错配",
+      "stability": "价格稳定性",
+      "cycle_align": "周期对齐",
+      "delta_penalty": "Delta中性惩罚",
+      "recommendation": "推荐",
+      "confidence": "置信度",
+      "rec": {
+        "STRONG_BUY": "强烈买入",
+        "BUY": "买入",
+        "NEUTRAL": "中性观望",
+        "AVOID": "避免"
+      }
+    },
+    "metrics": {
+      "price_stability": "价格稳定性",
+      "vol_mispricing": "波动率错配",
+      "profit_ratio": "盈亏比",
+      "risk_level": "风险等级",
+      "stability_desc": "波动幅度 (越小越好)",
+      "vol_desc": "IV高于预测 (做多蝴蝶)",
+      "profit_desc": "最大收益/风险",
+      "score_suffix": "评分: {{score}}分",
+      "confidence_suffix": "置信度: {{score}}%"
+    },
+    "greeks": {
+      "title": "Greeks 风险指标",
+      "delta": "Delta (方向性)",
+      "gamma": "Gamma (凸性)",
+      "vega": "Vega (波动率)",
+      "theta": "Theta (时间衰减)",
+      "neutral": "中性",
+      "directional": "有方向性",
+      "pos_gamma": "在中心区域正Gamma",
+      "neg_gamma": "负Gamma",
+      "short_vol": "做空波动率",
+      "long_vol": "做多波动率",
+      "daily": "每日",
+      "insight_title": "Greeks 解读",
+      "insight_delta": "蝴蝶策略应该方向中性，不受价格小幅波动影响",
+      "insight_gamma": "在中心行权价附近有正Gamma，价格接近中心时获利加速",
+      "insight_vega": "做空波动率，IV下降时获利（适合高IV时入场）",
+      "insight_theta": "时间是朋友，每天赚取时间价值衰减"
+    },
+    "iv_skew": {
+      "title": "IV Skew 波动率偏斜",
+      "benchmark": "基准IV",
+      "insight_title": "Skew含义",
+      "insight_put": "Put侧IV更高: 市场对下跌保护需求强（恐慌溢价）",
+      "insight_call": "Call侧IV更低: 看涨期权相对便宜",
+      "insight_butterfly": "蝴蝶策略影响: 不同行权价使用不同IV，定价更精确",
+      "insight_percentile": "IV百分位",
+      "high_iv": " (高位，适合卖期权)",
+      "low_iv": " (低位，不适合卖期权)",
+      "mid_iv": " (中等水平)"
+    },
+    "fourier": {
+      "strategy_type": "策略类型",
+      "low_freq": "低频趋势",
+      "mid_freq": "中频周期位置",
+      "up": "上涨",
+      "down": "下跌",
+      "flat": "平稳",
+      "peak": "波峰",
+      "valley": "波谷",
+      "slope": "斜率",
+      "dominant_periods": "主周期",
+      "days": "天",
+      "chart_title": "傅立叶变换频域分解",
+      "spectrum_title": "功率谱密度 - 主要周期识别",
+      "spectrum_insight": "检测到的主要交易周期",
+      "current_dominant": "当前主导周期",
+      "suggest_dte": "建议DTE"
+    },
+    "forecast": {
+      "title": "ARIMA 价格预测与95%置信区间",
+      "model": "模型",
+      "entry_logic": "蝴蝶期权入场逻辑",
+      "logic_confidence": "95%置信区间",
+      "logic_center": "预测中心价格",
+      "logic_strike": "蝴蝶中心行权价",
+      "logic_bep": "盈亏平衡点",
+      "logic_desc": "策略逻辑: 置信区间窄 → 价格稳定 → 适合蝴蝶期权"
+    },
+    "vol_forecast": {
+      "title": "GARCH 波动率预测",
+      "current_iv": "当前IV"
+    },
+    "strategy": {
+      "title": "蝴蝶期权构建方案",
+      "lower_wing": "下翼 (买入 {{type}})",
+      "center_wing": "中心 (卖出 {{type}})",
+      "upper_wing": "上翼 (买入 {{type}})",
+      "spread": "价差",
+      "max_risk": "最大风险",
+      "max_profit": "最大收益",
+      "net_debit_text": "净权利金支出（初始成本）",
+      "iron_risk_text": "翼宽 - 净收入",
+      "max_loss_suffix": "= 最大损失",
+      "iron_profit_text": "净收入: ${{amount}} (初始收入)",
+      "std_profit_text": "价格在${{price}}时实现",
+      "prob_profit": "预期盈利概率"
+    },
+    "suggestion": {
+      "title": "智能交易建议",
+      "action": "操作",
+      "position": "建议仓位",
+      "entry": "入场时机",
+      "hold": "持有期",
+      "immediate": "立即",
+      "wait": "等待回调",
+      "stop_loss": "止损",
+      "take_profit": "止盈",
+      "key_risks": "关键风险",
+      "risk_rules": "风险管理规则",
+      "risk_sl": "损失超过${{amount}} (50%成本)",
+      "risk_tp": "盈利达到${{amount}} (70%最大收益)",
+      "risk_price": "价格偏离: 超出${{low}}-${{high}}立即平仓",
+      "risk_iv": "波动率飙升: IV上涨30%以上考虑退出",
+      "risk_time": "时间管理: 剩余7天到期时强制平仓",
+      "risk_delta": "Delta风险: 当前Delta={{delta}}，存在方向性风险"
+    },
+    "checklist": {
+      "title": "交易检查清单",
+      "stability": "价格稳定性良好 (波动<12%)",
+      "vol": "波动率被高估 (IV > GARCH预测)",
+      "trend": "傅立叶趋势明确",
+      "cycle": "周期位置匹配策略",
+      "delta": "Delta中性 (|Δ| < 0.10)",
+      "iv": "IV在高位 (百分位 > 60%)",
+      "success_msg": "所有条件满足，建议入场 {{type}} Butterfly！",
+      "fail_msg": "条件未完全满足，建议等待或小仓位测试",
+      "pass_count": "通过检查项",
+      "rec_pos": "建议仓位",
+      "funds": "总资金"
+    },
+    "empty": {
+      "text1": "输入股票代码并点击\"开始分析\"",
+      "text2": "系统将自动判断使用 Call/Put/Iron Butterfly 策略",
+      "rec": "推荐标的",
+      "new": "v2.1 新增功能",
+      "features": [
+        "真实期权链IV + IV Skew精确建模",
+        "Black-Scholes精确定价（取代魔法数字）",
+        "完整Greeks风险指标（Delta/Gamma/Vega/Theta）",
+        "多因子综合评分系统（0-100分）",
+        "智能交易建议（止损/止盈/仓位）",
+        "ARIMA自动参数选择",
+        "傅立叶VWAP去趋势（真正的频域分析）"
+      ]
+    },
+    "footer": {
+      "disclaimer": "本工具仅供教育和研究使用，不构成投资建议。期权交易存在风险，请谨慎决策。",
+      "source": "数据来源: Yahoo Finance | 分析方法: FFT(VWAP) + ARIMA + GARCH + BS + Greeks",
+      "version": "版本: v2.1 | 后端: Python Flask | 前端: React + Recharts"
+    }
+  }
+}
