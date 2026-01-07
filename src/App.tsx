@@ -1,12 +1,13 @@
 import React, { useState } from 'react';
 import ButterflyOptionAnalyzer from './components/OptionAnalyzer';
 import ButterflyDashboard from './components/Dashboard';
-import { LayoutGrid, Microscope, Languages } from 'lucide-react';
+import StrategyRank from './components/StrategyRank';
+import { LayoutGrid, Microscope, Languages, Trophy } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 import logo from './assets/logo_remove_background.png';
 
 export default function App() {
-  const [view, setView] = useState<'dashboard' | 'analyzer'>('dashboard');
+  const [view, setView] = useState<'dashboard' | 'analyzer' | 'rank'>('dashboard');
   const [selectedTicker, setSelectedTicker] = useState<string>('');
   const { t, i18n } = useTranslation();
 
@@ -44,6 +45,16 @@ export default function App() {
                   {t('nav.dashboard')}
                 </button>
                 <button
+                  onClick={() => setView('rank')}
+                  className={`${view === 'rank'
+                    ? 'border-indigo-500 text-gray-900'
+                    : 'border-transparent text-gray-500 hover:border-gray-300 hover:text-gray-700'
+                    } inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium transition-colors duration-200`}
+                >
+                  <Trophy className="w-4 h-4 mr-2" />
+                  {t('nav.rank')}
+                </button>
+                <button
                   onClick={() => setView('analyzer')}
                   className={`${view === 'analyzer'
                     ? 'border-indigo-500 text-gray-900'
@@ -76,6 +87,10 @@ export default function App() {
       <main className="flex-1 overflow-auto">
         <div className={view === 'dashboard' ? 'block' : 'hidden'}>
           <ButterflyDashboard onAnalyzeTicker={handleTickerSelect} />
+        </div>
+
+        <div className={view === 'rank' ? 'block' : 'hidden'}>
+          <StrategyRank onAnalyze={handleTickerSelect} />
         </div>
 
         {view === 'analyzer' && (

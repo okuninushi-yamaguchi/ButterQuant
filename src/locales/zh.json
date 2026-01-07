@@ -6,8 +6,27 @@
   },
   "nav": {
     "dashboard": "策略热力图",
+    "rank": "策略排行榜",
     "analyzer": "深度分析器",
     "status": "后端状态: 已连接"
+  },
+  "rank": {
+    "title": "策略排行榜",
+    "subtitle": "每日扫描纳斯达克100与标普500成分股",
+    "all_markets": "全市场",
+    "no_data": "暂无排名数据，请在后台触发扫描。",
+    "rank": "排名",
+    "ticker": "代码",
+    "score": "评分",
+    "strategy": "策略",
+    "recommendation": "建议",
+    "action": "操作",
+    "analyze": "分析",
+    "load_more": "加载更多",
+    "rec_strong_buy": "强烈推荐",
+    "rec_buy": "推荐",
+    "rec_neutral": "中性",
+    "rec_avoid": "规避"
   },
   "dashboard": {
     "title": "市场热力图监控",
@@ -170,7 +189,11 @@
       "risk_price": "价格偏离: 超出${{low}}-${{high}}立即平仓",
       "risk_iv": "波动率飙升: IV上涨30%以上考虑退出",
       "risk_time": "时间管理: 剩余7天到期时强制平仓",
-      "risk_delta": "Delta风险: 当前Delta={{delta}}，存在方向性风险"
+      "risk_delta": "Delta风险: 当前Delta={{delta}},存在方向性风险",
+      "risk_delta_not_neutral": "Delta不够中性,有方向性风险",
+      "risk_price_volatility": "价格波动较大,蝴蝶策略风险增加",
+      "risk_iv_not_high": "IV不在高位,卖期权优势不明显",
+      "risk_low_profit_ratio": "盈亏比偏低,风险收益不对称"
     },
     "checklist": {
       "title": "交易检查清单",

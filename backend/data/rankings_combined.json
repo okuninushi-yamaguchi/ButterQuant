@@ -1,0 +1,6268 @@
+[
+  {
+    "rank": 1,
+    "ticker": "NVR",
+    "score": 79.9,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 2,
+    "ticker": "CMCSA",
+    "score": 78.7,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:38:06",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 3,
+    "ticker": "HOLX",
+    "score": 76.8,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:39:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 4,
+    "ticker": "NSC",
+    "score": 76.0,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 5,
+    "ticker": "CRH",
+    "score": 72.0,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:41:17",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 6,
+    "ticker": "MCK",
+    "score": 70.8,
+    "strategy": "CALL",
+    "recommendation": "BUY",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:41:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 7,
+    "ticker": "PGR",
+    "score": 70.7,
+    "strategy": "IRON",
+    "recommendation": "BUY",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:06",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 8,
+    "ticker": "FIS",
+    "score": 64.4,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:24",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 9,
+    "ticker": "AIG",
+    "score": 63.5,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:39:48",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 10,
+    "ticker": "ROST",
+    "score": 62.8,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:38:25",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 11,
+    "ticker": "NWSA",
+    "score": 62.7,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 12,
+    "ticker": "REG",
+    "score": 49.9,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 13,
+    "ticker": "CME",
+    "score": 49.8,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 14,
+    "ticker": "FICO",
+    "score": 49.6,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 15,
+    "ticker": "PNW",
+    "score": 49.2,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:57",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 16,
+    "ticker": "CVX",
+    "score": 48.3,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 17,
+    "ticker": "ECL",
+    "score": 47.6,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 18,
+    "ticker": "FITB",
+    "score": 47.5,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 19,
+    "ticker": "D",
+    "score": 47.1,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:50",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 20,
+    "ticker": "YUM",
+    "score": 47.1,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:27",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 21,
+    "ticker": "CMS",
+    "score": 46.7,
+    "strategy": "PUT",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 22,
+    "ticker": "TRMB",
+    "score": 46.7,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 23,
+    "ticker": "DHI",
+    "score": 46.4,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:48",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 24,
+    "ticker": "MSCI",
+    "score": 45.9,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 25,
+    "ticker": "AON",
+    "score": 45.8,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 26,
+    "ticker": "ROL",
+    "score": 45.3,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 27,
+    "ticker": "MET",
+    "score": 45.3,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 28,
+    "ticker": "NI",
+    "score": 45.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:16",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 29,
+    "ticker": "ITW",
+    "score": 45.0,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 30,
+    "ticker": "CTSH",
+    "score": 44.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:28",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 31,
+    "ticker": "WM",
+    "score": 44.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 32,
+    "ticker": "PNR",
+    "score": 44.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:50",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 33,
+    "ticker": "FRT",
+    "score": 44.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 34,
+    "ticker": "XOM",
+    "score": 44.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:57",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 35,
+    "ticker": "FSLR",
+    "score": 43.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 36,
+    "ticker": "PFE",
+    "score": 43.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 37,
+    "ticker": "NDSN",
+    "score": 43.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 38,
+    "ticker": "AMZN",
+    "score": 42.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:01",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 39,
+    "ticker": "FE",
+    "score": 42.3,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:13",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 40,
+    "ticker": "REGN",
+    "score": 41.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:06",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 41,
+    "ticker": "TROW",
+    "score": 41.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 42,
+    "ticker": "CTRA",
+    "score": 41.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:43",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 43,
+    "ticker": "MCD",
+    "score": 41.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 44,
+    "ticker": "CHD",
+    "score": 41.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:54",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 45,
+    "ticker": "VMC",
+    "score": 40.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:41",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 46,
+    "ticker": "MCO",
+    "score": 40.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:37",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 47,
+    "ticker": "EIX",
+    "score": 40.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 48,
+    "ticker": "AWK",
+    "score": 40.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 49,
+    "ticker": "PWR",
+    "score": 40.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:01",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 50,
+    "ticker": "COP",
+    "score": 40.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 51,
+    "ticker": "O",
+    "score": 40.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 52,
+    "ticker": "ETR",
+    "score": 40.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:41",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 53,
+    "ticker": "L",
+    "score": 40.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:04",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 54,
+    "ticker": "AEP",
+    "score": 40.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:36",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 55,
+    "ticker": "GPC",
+    "score": 40.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 56,
+    "ticker": "PTC",
+    "score": 40.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:36",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 57,
+    "ticker": "EW",
+    "score": 40.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:29",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 58,
+    "ticker": "INTC",
+    "score": 39.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:19",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 59,
+    "ticker": "TXT",
+    "score": 39.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:48",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 60,
+    "ticker": "LNT",
+    "score": 39.9,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 61,
+    "ticker": "DTE",
+    "score": 39.9,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:13",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 62,
+    "ticker": "FIX",
+    "score": 39.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 63,
+    "ticker": "CBOE",
+    "score": 39.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:43",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 64,
+    "ticker": "SPGI",
+    "score": 39.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 65,
+    "ticker": "DVA",
+    "score": 39.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 66,
+    "ticker": "LLY",
+    "score": 39.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 67,
+    "ticker": "VLTO",
+    "score": 39.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 68,
+    "ticker": "TECH",
+    "score": 39.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:43",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 69,
+    "ticker": "CPT",
+    "score": 39.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:45",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 70,
+    "ticker": "WRB",
+    "score": 39.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 71,
+    "ticker": "GWW",
+    "score": 39.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 72,
+    "ticker": "RTX",
+    "score": 39.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:13",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 73,
+    "ticker": "RVTY",
+    "score": 39.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 74,
+    "ticker": "PM",
+    "score": 39.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 75,
+    "ticker": "TDY",
+    "score": 39.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:52",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 76,
+    "ticker": "URI",
+    "score": 39.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:17",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 77,
+    "ticker": "GNRC",
+    "score": 39.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 78,
+    "ticker": "CAH",
+    "score": 39.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:52",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 79,
+    "ticker": "IRM",
+    "score": 39.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:27",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 80,
+    "ticker": "CRL",
+    "score": 39.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:29",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 81,
+    "ticker": "AAPL",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:20",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 82,
+    "ticker": "MELI",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:21",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 83,
+    "ticker": "INTU",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:32",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 84,
+    "ticker": "PSA",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:45",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 85,
+    "ticker": "MTD",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:15",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 86,
+    "ticker": "MO",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 87,
+    "ticker": "PPL",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 88,
+    "ticker": "DRI",
+    "score": 39.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 89,
+    "ticker": "NWS",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 90,
+    "ticker": "MDT",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 91,
+    "ticker": "WAT",
+    "score": 39.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 92,
+    "ticker": "FANG",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:04",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 93,
+    "ticker": "ADP",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:04",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 94,
+    "ticker": "TRI",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:05",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 95,
+    "ticker": "PYPL",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:30",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 96,
+    "ticker": "VRSK",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:34",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 97,
+    "ticker": "POOL",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 98,
+    "ticker": "BG",
+    "score": 39.6,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 99,
+    "ticker": "WAB",
+    "score": 39.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:10",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 100,
+    "ticker": "HD",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:25",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 101,
+    "ticker": "CB",
+    "score": 39.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 102,
+    "ticker": "WEC",
+    "score": 39.6,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:04",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 103,
+    "ticker": "OMC",
+    "score": 39.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 104,
+    "ticker": "PG",
+    "score": 39.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 105,
+    "ticker": "MSFT",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:26",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 106,
+    "ticker": "IDXX",
+    "score": 39.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:26",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 107,
+    "ticker": "XEL",
+    "score": 39.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:27",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 108,
+    "ticker": "ODFL",
+    "score": 39.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:28",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 109,
+    "ticker": "GOOG",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:30",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 110,
+    "ticker": "PAYX",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:36",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 111,
+    "ticker": "TDG",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:48",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 112,
+    "ticker": "MMC",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 113,
+    "ticker": "GL",
+    "score": 39.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 114,
+    "ticker": "NRG",
+    "score": 39.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:50",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 115,
+    "ticker": "TPL",
+    "score": 39.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 116,
+    "ticker": "DE",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:40",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 117,
+    "ticker": "GDDY",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 118,
+    "ticker": "NOC",
+    "score": 39.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 119,
+    "ticker": "ATO",
+    "score": 39.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:29",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 120,
+    "ticker": "GOOGL",
+    "score": 39.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:15",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 121,
+    "ticker": "MCHP",
+    "score": 39.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:20",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 122,
+    "ticker": "MSTR",
+    "score": 39.4,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:24",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 123,
+    "ticker": "CSCO",
+    "score": 39.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:27",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 124,
+    "ticker": "ISRG",
+    "score": 39.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:37",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 125,
+    "ticker": "UNH",
+    "score": 39.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 126,
+    "ticker": "GD",
+    "score": 39.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 127,
+    "ticker": "EME",
+    "score": 39.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 128,
+    "ticker": "ZBH",
+    "score": 39.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:44",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 129,
+    "ticker": "OTIS",
+    "score": 39.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 130,
+    "ticker": "ETN",
+    "score": 39.4,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:57",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 131,
+    "ticker": "ELV",
+    "score": 39.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 132,
+    "ticker": "COST",
+    "score": 39.3,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:21",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 133,
+    "ticker": "EXR",
+    "score": 39.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 134,
+    "ticker": "PNC",
+    "score": 39.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 135,
+    "ticker": "AMT",
+    "score": 39.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 136,
+    "ticker": "MTCH",
+    "score": 39.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 137,
+    "ticker": "CHTR",
+    "score": 39.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:04",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 138,
+    "ticker": "AZN",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:13",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 139,
+    "ticker": "LIN",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:15",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 140,
+    "ticker": "MPWR",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:30",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 141,
+    "ticker": "NXPI",
+    "score": 39.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:36",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 142,
+    "ticker": "GS",
+    "score": 39.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 143,
+    "ticker": "ZTS",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 144,
+    "ticker": "MKC",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:17",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 145,
+    "ticker": "RMD",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:37",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 146,
+    "ticker": "TEL",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:17",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 147,
+    "ticker": "PODD",
+    "score": 39.2,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:22",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 148,
+    "ticker": "JKHY",
+    "score": 39.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 149,
+    "ticker": "CI",
+    "score": 39.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 150,
+    "ticker": "APP",
+    "score": 39.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:10",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 151,
+    "ticker": "FDX",
+    "score": 39.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:16",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 152,
+    "ticker": "UHS",
+    "score": 39.1,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:25",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 153,
+    "ticker": "TMO",
+    "score": 39.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:34",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 154,
+    "ticker": "MOS",
+    "score": 39.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:41",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 155,
+    "ticker": "STE",
+    "score": 39.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 156,
+    "ticker": "AVB",
+    "score": 39.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:57",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 157,
+    "ticker": "COIN",
+    "score": 39.1,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 158,
+    "ticker": "CCEP",
+    "score": 39.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:32",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 159,
+    "ticker": "AJG",
+    "score": 39.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 160,
+    "ticker": "DG",
+    "score": 39.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 161,
+    "ticker": "ORCL",
+    "score": 39.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 162,
+    "ticker": "SNA",
+    "score": 39.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:16",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 163,
+    "ticker": "UPS",
+    "score": 39.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 164,
+    "ticker": "ICE",
+    "score": 39.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:28",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 165,
+    "ticker": "HSY",
+    "score": 39.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:32",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 166,
+    "ticker": "MTB",
+    "score": 39.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 167,
+    "ticker": "WELL",
+    "score": 39.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:10",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 168,
+    "ticker": "ED",
+    "score": 39.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:19",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 169,
+    "ticker": "ROP",
+    "score": 38.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:24",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 170,
+    "ticker": "CRWD",
+    "score": 38.9,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:30",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 171,
+    "ticker": "IR",
+    "score": 38.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 172,
+    "ticker": "BR",
+    "score": 38.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 173,
+    "ticker": "MRK",
+    "score": 38.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:27",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 174,
+    "ticker": "SPG",
+    "score": 38.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 175,
+    "ticker": "EQIX",
+    "score": 38.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:01",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 176,
+    "ticker": "WMB",
+    "score": 38.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 177,
+    "ticker": "WYNN",
+    "score": 38.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 178,
+    "ticker": "DAY",
+    "score": 38.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 179,
+    "ticker": "ARM",
+    "score": 38.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:07",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 180,
+    "ticker": "ADI",
+    "score": 38.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:13",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 181,
+    "ticker": "TMUS",
+    "score": 38.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:14",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 182,
+    "ticker": "CVNA",
+    "score": 38.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:12",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 183,
+    "ticker": "TYL",
+    "score": 38.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 184,
+    "ticker": "CLX",
+    "score": 38.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:54",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 185,
+    "ticker": "JCI",
+    "score": 38.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:06",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 186,
+    "ticker": "DELL",
+    "score": 38.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:15",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 187,
+    "ticker": "LMT",
+    "score": 38.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 188,
+    "ticker": "TT",
+    "score": 38.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 189,
+    "ticker": "ORLY",
+    "score": 38.7,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:38",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 190,
+    "ticker": "STX",
+    "score": 38.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:41",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 191,
+    "ticker": "UBER",
+    "score": 38.7,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 192,
+    "ticker": "TRGP",
+    "score": 38.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 193,
+    "ticker": "CVS",
+    "score": 38.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 194,
+    "ticker": "DUK",
+    "score": 38.7,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:06",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 195,
+    "ticker": "RSG",
+    "score": 38.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 196,
+    "ticker": "VZ",
+    "score": 38.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:10",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 197,
+    "ticker": "CDW",
+    "score": 38.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:28",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 198,
+    "ticker": "AEE",
+    "score": 38.7,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 199,
+    "ticker": "DLR",
+    "score": 38.7,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 200,
+    "ticker": "SHW",
+    "score": 38.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 201,
+    "ticker": "NTAP",
+    "score": 38.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:12",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 202,
+    "ticker": "CEG",
+    "score": 38.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:28",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 203,
+    "ticker": "MSI",
+    "score": 38.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 204,
+    "ticker": "DPZ",
+    "score": 38.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 205,
+    "ticker": "BMY",
+    "score": 38.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:45",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 206,
+    "ticker": "PKG",
+    "score": 38.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 207,
+    "ticker": "DASH",
+    "score": 38.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:07",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 208,
+    "ticker": "PEP",
+    "score": 38.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:31",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 209,
+    "ticker": "GE",
+    "score": 38.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 210,
+    "ticker": "BLDR",
+    "score": 38.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:24",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 211,
+    "ticker": "TTD",
+    "score": 38.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:37",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 212,
+    "ticker": "MMM",
+    "score": 38.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 213,
+    "ticker": "NTRS",
+    "score": 38.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 214,
+    "ticker": "HCA",
+    "score": 38.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:36",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 215,
+    "ticker": "NOW",
+    "score": 38.4,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:57",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 216,
+    "ticker": "PHM",
+    "score": 38.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 217,
+    "ticker": "NEM",
+    "score": 38.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:41",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 218,
+    "ticker": "XYL",
+    "score": 38.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:32",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 219,
+    "ticker": "SJM",
+    "score": 38.4,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:34",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 220,
+    "ticker": "TSCO",
+    "score": 38.4,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 221,
+    "ticker": "COR",
+    "score": 38.4,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:40",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 222,
+    "ticker": "AVGO",
+    "score": 38.3,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:11",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 223,
+    "ticker": "GILD",
+    "score": 38.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:12",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 224,
+    "ticker": "MNST",
+    "score": 38.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:32",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 225,
+    "ticker": "UDR",
+    "score": 38.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 226,
+    "ticker": "LDOS",
+    "score": 38.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 227,
+    "ticker": "AKAM",
+    "score": 38.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 228,
+    "ticker": "PAYC",
+    "score": 38.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:16",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 229,
+    "ticker": "WST",
+    "score": 38.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 230,
+    "ticker": "A",
+    "score": 38.2,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 231,
+    "ticker": "IBM",
+    "score": 38.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 232,
+    "ticker": "AXP",
+    "score": 38.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 233,
+    "ticker": "HOOD",
+    "score": 38.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 234,
+    "ticker": "ALB",
+    "score": 38.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 235,
+    "ticker": "MS",
+    "score": 38.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:57",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 236,
+    "ticker": "VTRS",
+    "score": 38.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:19",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 237,
+    "ticker": "ALLE",
+    "score": 38.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 238,
+    "ticker": "ALL",
+    "score": 38.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 239,
+    "ticker": "TXN",
+    "score": 38.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:10",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 240,
+    "ticker": "PDD",
+    "score": 38.1,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:11",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 241,
+    "ticker": "CHRW",
+    "score": 38.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 242,
+    "ticker": "MOH",
+    "score": 38.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 243,
+    "ticker": "MAA",
+    "score": 38.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:50",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 244,
+    "ticker": "ESS",
+    "score": 38.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 245,
+    "ticker": "SBAC",
+    "score": 38.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 246,
+    "ticker": "CPAY",
+    "score": 38.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:32",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 247,
+    "ticker": "NFLX",
+    "score": 38.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:33",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 248,
+    "ticker": "CTAS",
+    "score": 38.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:38",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 249,
+    "ticker": "VST",
+    "score": 38.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 250,
+    "ticker": "VICI",
+    "score": 38.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 251,
+    "ticker": "APH",
+    "score": 38.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 252,
+    "ticker": "AES",
+    "score": 38.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:13",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 253,
+    "ticker": "NVDA",
+    "score": 37.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:23",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 254,
+    "ticker": "SYK",
+    "score": 37.9,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 255,
+    "ticker": "CINF",
+    "score": 37.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 256,
+    "ticker": "ACGL",
+    "score": 37.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:01",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 257,
+    "ticker": "ADM",
+    "score": 37.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:44",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 258,
+    "ticker": "BRO",
+    "score": 37.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 259,
+    "ticker": "HIG",
+    "score": 37.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:39",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 260,
+    "ticker": "TKO",
+    "score": 37.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:43",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 261,
+    "ticker": "LUV",
+    "score": 37.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:13",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 262,
+    "ticker": "BIIB",
+    "score": 37.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:08",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 263,
+    "ticker": "CDNS",
+    "score": 37.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:01",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 264,
+    "ticker": "ADSK",
+    "score": 37.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:29",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 265,
+    "ticker": "WTW",
+    "score": 37.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 266,
+    "ticker": "NKE",
+    "score": 37.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 267,
+    "ticker": "KIM",
+    "score": 37.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 268,
+    "ticker": "NEE",
+    "score": 37.7,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 269,
+    "ticker": "STLD",
+    "score": 37.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 270,
+    "ticker": "DHR",
+    "score": 37.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 271,
+    "ticker": "LW",
+    "score": 37.6,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 272,
+    "ticker": "UNP",
+    "score": 37.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 273,
+    "ticker": "CBRE",
+    "score": 37.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 274,
+    "ticker": "WDAY",
+    "score": 37.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:21",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 275,
+    "ticker": "CTVA",
+    "score": 37.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 276,
+    "ticker": "FOXA",
+    "score": 37.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:06",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 277,
+    "ticker": "HSIC",
+    "score": 37.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 278,
+    "ticker": "TTWO",
+    "score": 37.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:08",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 279,
+    "ticker": "DDOG",
+    "score": 37.4,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:14",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 280,
+    "ticker": "IQV",
+    "score": 37.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 281,
+    "ticker": "CNC",
+    "score": 37.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:08",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 282,
+    "ticker": "SWK",
+    "score": 37.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 283,
+    "ticker": "VTR",
+    "score": 37.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 284,
+    "ticker": "LHX",
+    "score": 37.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:28",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 285,
+    "ticker": "EVRG",
+    "score": 37.3,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 286,
+    "ticker": "PEG",
+    "score": 37.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 287,
+    "ticker": "HPQ",
+    "score": 37.3,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 288,
+    "ticker": "SMCI",
+    "score": 37.2,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:52",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 289,
+    "ticker": "TAP",
+    "score": 37.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 290,
+    "ticker": "MAS",
+    "score": 37.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:44",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 291,
+    "ticker": "IFF",
+    "score": 37.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:52",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 292,
+    "ticker": "SYF",
+    "score": 37.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 293,
+    "ticker": "PSX",
+    "score": 37.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 294,
+    "ticker": "ERIE",
+    "score": 37.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 295,
+    "ticker": "CF",
+    "score": 37.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:36",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 296,
+    "ticker": "TSN",
+    "score": 37.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 297,
+    "ticker": "MRVL",
+    "score": 37.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:08",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 298,
+    "ticker": "FTNT",
+    "score": 37.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:18",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 299,
+    "ticker": "ABBV",
+    "score": 37.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 300,
+    "ticker": "EBAY",
+    "score": 37.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 301,
+    "ticker": "APD",
+    "score": 37.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:37",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 302,
+    "ticker": "J",
+    "score": 37.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:12",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 303,
+    "ticker": "VRSN",
+    "score": 37.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:12",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 304,
+    "ticker": "TRV",
+    "score": 36.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:43",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 305,
+    "ticker": "FISV",
+    "score": 36.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 306,
+    "ticker": "PLD",
+    "score": 36.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 307,
+    "ticker": "AFL",
+    "score": 36.9,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:59",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 308,
+    "ticker": "AMD",
+    "score": 36.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:10",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 309,
+    "ticker": "HRL",
+    "score": 36.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 310,
+    "ticker": "ANET",
+    "score": 36.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 311,
+    "ticker": "PFG",
+    "score": 36.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 312,
+    "ticker": "ABT",
+    "score": 36.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:15",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 313,
+    "ticker": "OKE",
+    "score": 36.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 314,
+    "ticker": "CNP",
+    "score": 36.6,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 315,
+    "ticker": "SO",
+    "score": 36.6,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:32",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 316,
+    "ticker": "USB",
+    "score": 36.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:12",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 317,
+    "ticker": "GPN",
+    "score": 36.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:22",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 318,
+    "ticker": "BSX",
+    "score": 36.6,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 319,
+    "ticker": "PRU",
+    "score": 36.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:54",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 320,
+    "ticker": "INCY",
+    "score": 36.5,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:22",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 321,
+    "ticker": "OXY",
+    "score": 36.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 322,
+    "ticker": "KMB",
+    "score": 36.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:08",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 323,
+    "ticker": "HON",
+    "score": 36.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:17",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 324,
+    "ticker": "FAST",
+    "score": 36.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:17",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 325,
+    "ticker": "EA",
+    "score": 36.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:20",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 326,
+    "ticker": "AIZ",
+    "score": 36.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 327,
+    "ticker": "INVH",
+    "score": 36.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 328,
+    "ticker": "JNJ",
+    "score": 36.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:27",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 329,
+    "ticker": "SBUX",
+    "score": 36.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:01",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 330,
+    "ticker": "FCX",
+    "score": 36.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 331,
+    "ticker": "BDX",
+    "score": 36.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 332,
+    "ticker": "SOLV",
+    "score": 36.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 333,
+    "ticker": "KMI",
+    "score": 36.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:15",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 334,
+    "ticker": "EXC",
+    "score": 36.1,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:39",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 335,
+    "ticker": "DOW",
+    "score": 36.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 336,
+    "ticker": "HWM",
+    "score": 36.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 337,
+    "ticker": "APTV",
+    "score": 36.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:48",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 338,
+    "ticker": "SRE",
+    "score": 35.9,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 339,
+    "ticker": "TFC",
+    "score": 35.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 340,
+    "ticker": "SYY",
+    "score": 35.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 341,
+    "ticker": "ON",
+    "score": 35.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:01",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 342,
+    "ticker": "CCI",
+    "score": 35.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 343,
+    "ticker": "SLB",
+    "score": 35.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 344,
+    "ticker": "GIS",
+    "score": 35.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:28",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 345,
+    "ticker": "BBY",
+    "score": 35.6,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:50",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 346,
+    "ticker": "HAL",
+    "score": 35.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:13",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 347,
+    "ticker": "LVS",
+    "score": 35.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 348,
+    "ticker": "LYB",
+    "score": 35.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:54",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 349,
+    "ticker": "BXP",
+    "score": 35.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 350,
+    "ticker": "MLM",
+    "score": 35.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:24",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 351,
+    "ticker": "KO",
+    "score": 35.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:28",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 352,
+    "ticker": "HAS",
+    "score": 35.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:44",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 353,
+    "ticker": "CL",
+    "score": 35.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 354,
+    "ticker": "CARR",
+    "score": 35.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:08",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 355,
+    "ticker": "CPRT",
+    "score": 35.0,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:09",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 356,
+    "ticker": "BAX",
+    "score": 35.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:15",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 357,
+    "ticker": "KR",
+    "score": 34.8,
+    "strategy": "PUT",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:40",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 358,
+    "ticker": "DVN",
+    "score": 34.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 359,
+    "ticker": "IBKR",
+    "score": 34.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 360,
+    "ticker": "SWKS",
+    "score": 34.4,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:54",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 361,
+    "ticker": "WBD",
+    "score": 34.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:33",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 362,
+    "ticker": "CFG",
+    "score": 34.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 363,
+    "ticker": "CSGP",
+    "score": 34.0,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:25",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 364,
+    "ticker": "FOX",
+    "score": 34.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:44",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 365,
+    "ticker": "FER",
+    "score": 33.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:18",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 366,
+    "ticker": "ES",
+    "score": 33.8,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 367,
+    "ticker": "EG",
+    "score": 33.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 368,
+    "ticker": "EQR",
+    "score": 33.7,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 369,
+    "ticker": "HUBB",
+    "score": 33.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:29",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 370,
+    "ticker": "CAG",
+    "score": 33.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:25",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 371,
+    "ticker": "APA",
+    "score": 33.5,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 372,
+    "ticker": "FTV",
+    "score": 33.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:52",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 373,
+    "ticker": "AXON",
+    "score": 33.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:01",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 374,
+    "ticker": "PH",
+    "score": 33.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 375,
+    "ticker": "DGX",
+    "score": 33.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 376,
+    "ticker": "MA",
+    "score": 33.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 377,
+    "ticker": "ALGN",
+    "score": 33.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 378,
+    "ticker": "GRMN",
+    "score": 33.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 379,
+    "ticker": "INSM",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:02",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 380,
+    "ticker": "BKNG",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:08",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 381,
+    "ticker": "MAR",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:11",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 382,
+    "ticker": "KHC",
+    "score": 33.1,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:37",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 383,
+    "ticker": "KLAC",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:41",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 384,
+    "ticker": "ROK",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 385,
+    "ticker": "HII",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 386,
+    "ticker": "EOG",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:25",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 387,
+    "ticker": "BA",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:38",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 388,
+    "ticker": "HUM",
+    "score": 33.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:10",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 389,
+    "ticker": "MU",
+    "score": 33.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:15",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 390,
+    "ticker": "META",
+    "score": 33.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:25",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 391,
+    "ticker": "TGT",
+    "score": 33.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 392,
+    "ticker": "DLTR",
+    "score": 33.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 393,
+    "ticker": "TEAM",
+    "score": 32.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:05",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 394,
+    "ticker": "BLK",
+    "score": 32.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 395,
+    "ticker": "AMGN",
+    "score": 32.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:23",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 396,
+    "ticker": "WSM",
+    "score": 32.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 397,
+    "ticker": "AMP",
+    "score": 32.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:40",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 398,
+    "ticker": "WY",
+    "score": 32.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 399,
+    "ticker": "RF",
+    "score": 32.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:22",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 400,
+    "ticker": "GEV",
+    "score": 32.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 401,
+    "ticker": "XYZ",
+    "score": 32.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 402,
+    "ticker": "CMI",
+    "score": 32.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:16",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 403,
+    "ticker": "LYV",
+    "score": 32.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 404,
+    "ticker": "ALNY",
+    "score": 32.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:15",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 405,
+    "ticker": "ASML",
+    "score": 32.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:33",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 406,
+    "ticker": "ZS",
+    "score": 32.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:39",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 407,
+    "ticker": "MPC",
+    "score": 32.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:24",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 408,
+    "ticker": "PLTR",
+    "score": 32.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:34",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 409,
+    "ticker": "KDP",
+    "score": 32.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:35",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 410,
+    "ticker": "EXPE",
+    "score": 32.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 411,
+    "ticker": "AZO",
+    "score": 32.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 412,
+    "ticker": "ARES",
+    "score": 32.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:17",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 413,
+    "ticker": "STT",
+    "score": 32.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 414,
+    "ticker": "NDAQ",
+    "score": 32.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 415,
+    "ticker": "HBAN",
+    "score": 32.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:45",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 416,
+    "ticker": "EMR",
+    "score": 32.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 417,
+    "ticker": "KEY",
+    "score": 32.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 418,
+    "ticker": "WMT",
+    "score": 32.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:25",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 419,
+    "ticker": "SNDK",
+    "score": 32.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:27",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 420,
+    "ticker": "EXE",
+    "score": 32.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:34",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 421,
+    "ticker": "VRTX",
+    "score": 32.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:03",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 422,
+    "ticker": "KVUE",
+    "score": 32.3,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 423,
+    "ticker": "DIS",
+    "score": 32.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 424,
+    "ticker": "CAT",
+    "score": 32.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:21",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 425,
+    "ticker": "BEN",
+    "score": 32.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 426,
+    "ticker": "NUE",
+    "score": 32.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 427,
+    "ticker": "SHOP",
+    "score": 32.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:03",
+    "tags": [
+      "NASDAQ"
+    ]
+  },
+  {
+    "rank": 428,
+    "ticker": "RL",
+    "score": 32.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:30",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 429,
+    "ticker": "LH",
+    "score": 32.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:39",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 430,
+    "ticker": "V",
+    "score": 32.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:53",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 431,
+    "ticker": "COF",
+    "score": 32.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:17",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 432,
+    "ticker": "QCOM",
+    "score": 32.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:34",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 433,
+    "ticker": "TJX",
+    "score": 31.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:39",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 434,
+    "ticker": "KKR",
+    "score": 31.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:19",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 435,
+    "ticker": "ULTA",
+    "score": 31.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:52",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 436,
+    "ticker": "IEX",
+    "score": 31.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 437,
+    "ticker": "STZ",
+    "score": 31.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 438,
+    "ticker": "SNPS",
+    "score": 31.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:16",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 439,
+    "ticker": "LII",
+    "score": 31.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 440,
+    "ticker": "SCHW",
+    "score": 31.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:27",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 441,
+    "ticker": "AMAT",
+    "score": 31.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:40",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 442,
+    "ticker": "GLW",
+    "score": 31.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:32",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 443,
+    "ticker": "JBL",
+    "score": 31.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:19",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 444,
+    "ticker": "DXCM",
+    "score": 31.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:18",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 445,
+    "ticker": "TSLA",
+    "score": 31.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:21",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 446,
+    "ticker": "RCL",
+    "score": 31.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 447,
+    "ticker": "PPG",
+    "score": 31.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:28",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 448,
+    "ticker": "CRM",
+    "score": 31.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 449,
+    "ticker": "HLT",
+    "score": 31.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 450,
+    "ticker": "PANW",
+    "score": 31.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:39",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 451,
+    "ticker": "VLO",
+    "score": 31.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 452,
+    "ticker": "BK",
+    "score": 31.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 453,
+    "ticker": "EFX",
+    "score": 31.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:41",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 454,
+    "ticker": "RJF",
+    "score": 31.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:59",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 455,
+    "ticker": "JPM",
+    "score": 31.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:19",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 456,
+    "ticker": "BX",
+    "score": 31.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:25",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 457,
+    "ticker": "BALL",
+    "score": 31.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:26",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 458,
+    "ticker": "APO",
+    "score": 31.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:38",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 459,
+    "ticker": "EXPD",
+    "score": 30.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:13",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 460,
+    "ticker": "CCL",
+    "score": 30.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:28",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 461,
+    "ticker": "ADBE",
+    "score": 30.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:23",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 462,
+    "ticker": "LRCX",
+    "score": 30.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:23",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 463,
+    "ticker": "ABNB",
+    "score": 30.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:26",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 464,
+    "ticker": "EPAM",
+    "score": 30.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 465,
+    "ticker": "AME",
+    "score": 30.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 466,
+    "ticker": "WFC",
+    "score": 30.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:10",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 467,
+    "ticker": "BKR",
+    "score": 30.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:36",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 468,
+    "ticker": "COO",
+    "score": 30.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:16",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 469,
+    "ticker": "TER",
+    "score": 30.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:24",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 470,
+    "ticker": "LOW",
+    "score": 30.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 471,
+    "ticker": "PCAR",
+    "score": 30.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:05",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 472,
+    "ticker": "FDS",
+    "score": 30.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:43",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 473,
+    "ticker": "PSKY",
+    "score": 30.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:45",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 474,
+    "ticker": "UAL",
+    "score": 30.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 475,
+    "ticker": "WDC",
+    "score": 30.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:10",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 476,
+    "ticker": "ACN",
+    "score": 30.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:38",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 477,
+    "ticker": "TPR",
+    "score": 30.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:09",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 478,
+    "ticker": "AVY",
+    "score": 30.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:44",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 479,
+    "ticker": "ZBRA",
+    "score": 30.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 480,
+    "ticker": "KEYS",
+    "score": 30.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:37",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 481,
+    "ticker": "GM",
+    "score": 30.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:38",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 482,
+    "ticker": "AOS",
+    "score": 30.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 483,
+    "ticker": "FFIV",
+    "score": 29.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:24",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 484,
+    "ticker": "IT",
+    "score": 29.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:16",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 485,
+    "ticker": "EL",
+    "score": 29.8,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 486,
+    "ticker": "DOV",
+    "score": 29.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:29",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 487,
+    "ticker": "CPB",
+    "score": 29.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:22",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 488,
+    "ticker": "LEN",
+    "score": 29.5,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:54",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 489,
+    "ticker": "DECK",
+    "score": 29.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:39",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 490,
+    "ticker": "LULU",
+    "score": 29.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 491,
+    "ticker": "MGM",
+    "score": 29.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:45",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 492,
+    "ticker": "CMG",
+    "score": 29.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:31",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 493,
+    "ticker": "GEHC",
+    "score": 28.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:07",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 494,
+    "ticker": "C",
+    "score": 28.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 495,
+    "ticker": "SW",
+    "score": 28.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:56",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 496,
+    "ticker": "DAL",
+    "score": 28.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:47",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 497,
+    "ticker": "IP",
+    "score": 28.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:08",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 498,
+    "ticker": "IVZ",
+    "score": 28.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:29",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 499,
+    "ticker": "JBHT",
+    "score": 28.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:33",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 500,
+    "ticker": "MRNA",
+    "score": 28.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:15",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 501,
+    "ticker": "DD",
+    "score": 27.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:15",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 502,
+    "ticker": "T",
+    "score": 27.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:14",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 503,
+    "ticker": "PCG",
+    "score": 27.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:03",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 504,
+    "ticker": "CSX",
+    "score": 27.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:13",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 505,
+    "ticker": "EQT",
+    "score": 27.2,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:02",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 506,
+    "ticker": "ARE",
+    "score": 26.7,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:42",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 507,
+    "ticker": "BAC",
+    "score": 26.4,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:45",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 508,
+    "ticker": "MDLZ",
+    "score": 25.6,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:38:02",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 509,
+    "ticker": "GEN",
+    "score": 25.3,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:00",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 510,
+    "ticker": "HPE",
+    "score": 25.1,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:07",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 511,
+    "ticker": "HST",
+    "score": 25.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:43",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 512,
+    "ticker": "NCLH",
+    "score": 24.9,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:19",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 513,
+    "ticker": "F",
+    "score": 24.2,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 514,
+    "ticker": "DOC",
+    "score": 22.0,
+    "strategy": "CALL",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:51",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 515,
+    "ticker": "AMCR",
+    "score": 17.6,
+    "strategy": "IRON",
+    "recommendation": "AVOID",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:42",
+    "tags": [
+      "SP500"
+    ]
+  }
+]

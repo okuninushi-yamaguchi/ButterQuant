@@ -32,3 +32,15 @@ __pycache__/
 backend/venv/
 backend/__pycache__/
 
+# Data and DB
+backend/data/*.db
+backend/data/*.json
+backend/data/*.txt
+backend/logs/
+
+# Test scripts
+backend/test_*.py
+backend/check_*.py
+backend/analyze_*.py
+backend/verify_*.py
+

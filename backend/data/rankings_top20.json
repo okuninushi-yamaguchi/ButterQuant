@@ -1,0 +1,244 @@
+[
+  {
+    "rank": 1,
+    "ticker": "NVR",
+    "score": 79.9,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:05",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 2,
+    "ticker": "CMCSA",
+    "score": 78.7,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:38:06",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 3,
+    "ticker": "HOLX",
+    "score": 76.8,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:39:46",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 4,
+    "ticker": "NSC",
+    "score": 76.0,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:55",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 5,
+    "ticker": "CRH",
+    "score": 72.0,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:41:17",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 6,
+    "ticker": "MCK",
+    "score": 70.8,
+    "strategy": "CALL",
+    "recommendation": "BUY",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:41:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 7,
+    "ticker": "PGR",
+    "score": 70.7,
+    "strategy": "IRON",
+    "recommendation": "BUY",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:06",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 8,
+    "ticker": "FIS",
+    "score": 64.4,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:24",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 9,
+    "ticker": "AIG",
+    "score": 63.5,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:39:48",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 10,
+    "ticker": "ROST",
+    "score": 62.8,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:38:25",
+    "tags": [
+      "NASDAQ",
+      "SP500"
+    ]
+  },
+  {
+    "rank": 11,
+    "ticker": "NWSA",
+    "score": 62.7,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "MEDIUM",
+    "date": "2026-01-07 07:40:18",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 12,
+    "ticker": "REG",
+    "score": 49.9,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:35",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 13,
+    "ticker": "CME",
+    "score": 49.8,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:23",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 14,
+    "ticker": "FICO",
+    "score": 49.6,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:20",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 15,
+    "ticker": "PNW",
+    "score": 49.2,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:57",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 16,
+    "ticker": "CVX",
+    "score": 48.3,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:49",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 17,
+    "ticker": "ECL",
+    "score": 47.6,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:58",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 18,
+    "ticker": "FITB",
+    "score": 47.5,
+    "strategy": "CALL",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:39:11",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 19,
+    "ticker": "D",
+    "score": 47.1,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:40:50",
+    "tags": [
+      "SP500"
+    ]
+  },
+  {
+    "rank": 20,
+    "ticker": "YUM",
+    "score": 47.1,
+    "strategy": "IRON",
+    "recommendation": "NEUTRAL",
+    "confidence": "LOW",
+    "date": "2026-01-07 07:41:27",
+    "tags": [
+      "SP500"
+    ]
+  }
+]

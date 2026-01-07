@@ -373,7 +373,7 @@ const ButterflyOptionAnalyzer: React.FC<ButterflyOptionAnalyzerProps> = ({ initi
                         </div>
                         <div className="flex flex-wrap gap-2">
                           {results.trade_suggestion.key_risks.map((risk: string, idx: number) => (
-                            <span key={idx} className="text-xs bg-amber-50 text-amber-800 px-2 py-1 rounded border border-amber-100">• {risk}</span>
+                            <span key={idx} className="text-xs bg-amber-50 text-amber-800 px-2 py-1 rounded border border-amber-100">• {t(`analyzer.suggestion.${risk}`)}</span>
                           ))}
                         </div>
                       </div>

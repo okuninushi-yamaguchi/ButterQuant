@@ -6,8 +6,27 @@
   },
   "nav": {
     "dashboard": "Heatmap Strategy",
+    "rank": "Strategy Rankings",
     "analyzer": "Deep Analyzer",
     "status": "Backend Status: Connected"
+  },
+  "rank": {
+    "title": "Strategy Rankings",
+    "subtitle": "Daily scanned opportunities from Nasdaq 100 & S&P 500",
+    "all_markets": "All Markets",
+    "no_data": "No ranking data available. Please trigger a scan from the backend.",
+    "rank": "Rank",
+    "ticker": "Ticker",
+    "score": "Score",
+    "strategy": "Strategy",
+    "recommendation": "Recommendation",
+    "action": "Action",
+    "analyze": "Analyze",
+    "load_more": "Load More",
+    "rec_strong_buy": "Strong Buy",
+    "rec_buy": "Buy",
+    "rec_neutral": "Neutral",
+    "rec_avoid": "Avoid"
   },
   "dashboard": {
     "title": "Market Heatmap Monitor",
@@ -170,7 +189,11 @@
       "risk_price": "Price deviation: Exit if outside ${{low}}-${{high}}",
       "risk_iv": "Vol Spike: Exit if IV rises >30%",
       "risk_time": "Time Mgmt: Force exit at 7 DTE",
-      "risk_delta": "Delta Risk: Current Delta={{delta}}, directional risk exists"
+      "risk_delta": "Delta Risk: Current Delta={{delta}}, directional risk exists",
+      "risk_delta_not_neutral": "Delta not neutral enough, directional risk exists",
+      "risk_price_volatility": "High price volatility increases butterfly strategy risk",
+      "risk_iv_not_high": "IV not at high levels, selling options less advantageous",
+      "risk_low_profit_ratio": "Low profit/risk ratio, asymmetric risk-reward"
     },
     "checklist": {
       "title": "Trading Checklist",

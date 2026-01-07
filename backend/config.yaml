@@ -1,0 +1,30 @@
+# Scanner Configuration
+scanner:
+  schedule_time: "18:00"  # JST time
+  batch_size: 5
+  max_workers: 4
+  retry_attempts: 3
+  
+paths:
+  ticker_files:
+    - "nas100.md"
+    - "sp500.md"
+  data_dir: "backend/data"
+  log_dir: "backend/logs"
+  db_path: "backend/data/history.db"
+
+storage:
+  save_json: true
+  save_db: true
+  ranking_file: "rankings_combined.json"
+  top20_file: "rankings_top20.json"
+  progress_file: "scan_progress.txt"
+
+analysis:
+  period: "2y"
+  min_price: 10
+  min_volume: 500000
+
+log:
+  level: "INFO"
+  file: "scanner.log"
