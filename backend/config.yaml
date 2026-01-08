@@ -9,9 +9,10 @@ paths:
   ticker_files:
     - "nas100.md"
     - "sp500.md"
-  data_dir: "backend/data"
-  log_dir: "backend/logs"
-  db_path: "backend/data/history.db"
+  data_dir: "data"
+  log_dir: "logs"
+  db_path: "data/history.db"
+  deep_db_path: "data/market_research.db"
 
 storage:
   save_json: true

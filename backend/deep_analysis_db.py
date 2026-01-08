@@ -4,8 +4,14 @@ import os
 from datetime import datetime
 
 class DeepAnalysisDB:
-    def __init__(self, db_path='backend/data/market_research.db'):
-        self.db_path = db_path
+    def __init__(self, db_path=None):
+        if db_path is None:
+            # 默认路径相对于当前文件 (deep_analysis_db.py) 的位置
+            base_dir = os.path.dirname(os.path.abspath(__file__))
+            self.db_path = os.path.join(base_dir, 'data', 'market_research.db')
+        else:
+            self.db_path = db_path
+            
         self._ensure_data_dir()
         self.init_db()
 

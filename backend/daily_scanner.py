@@ -32,7 +32,13 @@ def load_config():
 config = load_config()
 
 # 配置日志
-log_dir = config.get('paths', {}).get('log_dir', 'backend/logs')
+backend_dir = os.path.dirname(os.path.abspath(__file__))
+log_dir_raw = config.get('paths', {}).get('log_dir', 'logs')
+if os.path.isabs(log_dir_raw):
+    log_dir = log_dir_raw
+else:
+    log_dir = os.path.join(backend_dir, log_dir_raw)
+
 if not os.path.exists(log_dir):
     os.makedirs(log_dir)
 
@@ -48,12 +54,28 @@ logging.getLogger('').addHandler(console)
 class DailyScanner:
     def __init__(self):
         self.config = config
-        # 如果配置中有路径则使用，否则使用 DatabaseManager 默认
-        db_path = config.get('paths', {}).get('db_path')
-        self.db = DatabaseManager(db_path) if db_path else DatabaseManager()
         
-        self.deep_db = DeepAnalysisDB(config.get('paths', {}).get('deep_db_path', 'backend/data/market_research.db'))
-        self.data_dir = config.get('paths', {}).get('data_dir', 'backend/data')
+        # 获取 backend 根目录 (脚本所在目录)
+        self.backend_dir = os.path.dirname(os.path.abspath(__file__))
+        
+        # 统一处理路径解析，确保在任何地方启动都能找到正确位置
+        def get_abs_path(rel_path, default_rel):
+            path = rel_path if rel_path else default_rel
+            if os.path.isabs(path):
+                return path
+            return os.path.join(self.backend_dir, path)
+
+        db_path_raw = config.get('paths', {}).get('db_path')
+        db_path = get_abs_path(db_path_raw, 'data/history.db')
+        self.db = DatabaseManager(db_path)
+        
+        deep_db_path_raw = config.get('paths', {}).get('deep_db_path')
+        deep_db_path = get_abs_path(deep_db_path_raw, 'data/market_research.db')
+        self.deep_db = DeepAnalysisDB(deep_db_path)
+        
+        data_dir_raw = config.get('paths', {}).get('data_dir', 'data')
+        self.data_dir = get_abs_path(data_dir_raw, 'data')
+        
         self.progress_file = os.path.join(self.data_dir, config.get('storage', {}).get('progress_file', 'scan_progress.txt'))
         
         if not os.path.exists(self.data_dir):
